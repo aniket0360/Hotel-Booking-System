@@ -1,6 +1,6 @@
 # Hotel-Booking-System
 
-Project Structure
+## Project Structure
 You'll have the following files:
 
 HotelBooking/
